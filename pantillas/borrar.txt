@@ -1,0 +1,16 @@
+<p>Hola arath,</p>
+<p>tienes un mensaje de: {{nombre}}</p>
+<p style="padding: 12px; border-left: 4px solid #d0d0d0; font-style: italic;">
+  correo: {{correo}}
+</p>
+<p style="padding: 12px; border-left: 4px solid #d0d0d0; font-style: italic;">
+  telefono: {{telefono}}
+</p>
+<p style="padding: 12px; border-left: 4px solid #d0d0d0; font-style: italic;">
+  {{mensaje}}
+</p>
+
+
+
+<p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Hola {{nombre}},</span></span></p>
+<p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Recibimos tu mensaje y nos mantendremos en contacto.</span></span></p>
